@@ -1,6 +1,10 @@
 /* ==========================================
     FOR DEMO PURPOSE
   ========================================== */
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 .holder {
   background: #f0efe9;
   min-height: 100vh;
@@ -25,4 +29,8 @@ label {
 
 a {
   text-decoration: none;
+}
+
+.form-check-input {
+  font-size: 1.3rem;
 }
